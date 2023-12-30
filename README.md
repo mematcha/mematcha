@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mematcha
+- 👋 Hi, I’m Sathwik Matcha
 - 👀 I’m interested in Machine Learning and Software Development
 - 🌱 I’m currently learning how to build Deep Learning Models to build new applications which can be used in AI
 - 💞️ I’m looking to collaborate on building projects 
