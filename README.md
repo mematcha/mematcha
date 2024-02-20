@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sathwik Matcha
 - 👀 I’m interested in Machine Learning and Software Development
 - 🌱 I’m currently learning how to build Deep Learning Models to build new applications
-- 💞️ I’m looking to collaborate on building projects 
 - 📫 How to reach me  - You can reach me on Instagram at @mematcha9
 
 <!---
