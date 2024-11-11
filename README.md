@@ -53,7 +53,3 @@ I'm a Master's student in Information Systems at Northeastern University, with e
 - Analyzed 2GB+ of Amazon beauty product reviews
 - Achieved 80%+ accuracy in review classification
 - Tech stack: NumPy, Pandas, Scikit-learn
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
