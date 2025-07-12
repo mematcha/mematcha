@@ -32,6 +32,12 @@ I'm a Master's student in Information Systems at Northeastern University, with e
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Cloud Computing
+
+#### Badges
+
+![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/40x40/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
