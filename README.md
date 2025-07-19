@@ -37,6 +37,7 @@ I'm a Master's student in Information Systems at Northeastern University, with e
 #### Badges
 
 ![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/40x40/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
+![AWS Educate Getting Started with Storage](https://images.credly.com/size/40x40/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
