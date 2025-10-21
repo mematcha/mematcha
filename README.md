@@ -13,7 +13,7 @@ Machine Learning Engineer specializing in Large Language Models, Retrieval-Augme
 
 ## 💼 Professional Experience
 
-- **Machine Learning Engineer Intern** @ Gaman AI (Jan 2025 - Present)
+- **AI Engineer Intern** @ Gaman AI (Jan 2025 - Present)
   - Leading development of production LLM systems with Graph RAG architecture
   - Reduced inference latency by 53% through optimization and caching strategies
   - Built scalable ML pipelines on AWS with Docker and Kubernetes
