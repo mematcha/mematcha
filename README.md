@@ -86,15 +86,6 @@ Distributed data processing system for large-scale NLP
 
 ![AWS Educate Getting Started with Storage](https://images.credly.com/size/40x40/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png) AWS Educate Getting Started with Storage
 
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on ML projects, especially in:
-- 🤖 Large Language Models & Retrieval-Augmented Generation
-- 🎯 Recommendation Systems & Personalization
-- 🔬 Production ML Systems & MLOps
-- 📊 Deep Learning & Transformer Architectures
-
-Feel free to reach out for collaborations or just a chat about machine learning!
 
 ---
 
