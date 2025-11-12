@@ -60,13 +60,6 @@ Built production-scale ML pipeline for SEC financial document processing using *
 - Orchestrated using DVC with structured outputs (JSON, CSV, Markdown) for reproducible ML experiments
 - **Tech:** PyTorch, Transformers, LayoutLMv3, Google Document AI, DVC, Docker
 
-### 🎯 Transformer-Based Recommendation System with Multi-Armed Bandits
-Architected neural recommendation engine balancing exploration-exploitation trade-offs
-- Implemented contextual bandit algorithms for personalized content discovery using PyTorch
-- Achieved 18% improvement over baseline collaborative filtering on MovieLens-25M dataset (25M+ ratings)
-- Built offline evaluation framework with NDCG, precision@k, and recall@k metrics
-- **Tech:** PyTorch, Transformers, Bandits, Recommendation Systems
-
 ### 📚 [Large-Scale Legal Document RAG with LLM Evaluation](https://github.com/mematcha/arizona-caselaw-rag)
 Production-ready Retrieval-Augmented Generation system for legal document analysis
 - Processed 2GB+ of Arizona case law data across 100,000+ documents using FAISS vector search
