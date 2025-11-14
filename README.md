@@ -80,13 +80,6 @@ Distributed data processing system for large-scale NLP
 - Demonstrated expertise in designing efficient solutions for large-scale text processing
 - **Tech:** Python, Dask, Multiprocessing, NLP, Distributed Computing
 
-## 🏆 Certifications
-
-![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/40x40/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png) AWS Educate Introduction to Cloud 101
-
-![AWS Educate Getting Started with Storage](https://images.credly.com/size/40x40/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png) AWS Educate Getting Started with Storage
-
-
 ---
 
 ⭐️ From [mematcha](https://github.com/mematcha)
