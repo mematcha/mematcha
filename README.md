@@ -8,8 +8,8 @@ Machine Learning Engineer specializing in Large Language Models, Retrieval-Augme
 
 ## 🎓 Education
 
-- **Northeastern University** - M.S. in Information Systems (Expected Dec 2025) | GPA: 3.67/4.0
-- **Indian Institute of Technology Bombay** - Bachelor of Technology in Civil Engineering (Aug 2021)
+- **Northeastern University** - M.S. in Information Systems (Dec 2025)
+- **Indian Institute of Technology Bombay** - Bachelor of Technology (Aug 2021)
 
 ## 💼 Professional Experience
 
