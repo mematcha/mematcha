@@ -59,11 +59,11 @@ Machine Learning Engineer specializing in Large Language Models, Retrieval-Augme
 - **Quantified a 4.3× latency and throughput gap between SDXL and SD 1.5**, by building a benchmarking harness capturing per-request latency distributions and warmup behavior, enabling data-driven capacity planning.
 - **Enabled secure downstream consumption of ML inference**, by exposing authenticated REST APIs, resulting in safe integration with client applications.
 
-### Automated Batch Feature Store
+### [Automated Batch Feature Store](https://github.com/mematcha/automated-feature-store)
 - Engineered feature pipeline achieving **170K+ records/sec** with fault-tolerant checkpointing, cutting feature engineering effort by **60–80%**.
 - Achieved **0.04 ms average latency** at **27K ops/sec** for real-time feature serving via Redis, enabling model inference for production systems at scale.
 
-### Meridian — Multi-Agent Financial Intelligence Platform
+### [Meridian — Multi-Agent Financial Intelligence Platform](https://github.com/Big-Data-Team-3/project-meridian)
 *Dec 2025*
 
 - **Orchestrated an autonomous multi-agent analysis system processing 10,000+ articles/day**, by designing an eight-agent LLM workflow ingesting data from 4+ market and news sources, resulting in explainable BUY/HOLD/SELL recommendations.
