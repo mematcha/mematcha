@@ -53,6 +53,25 @@ Machine Learning Engineer specializing in Large Language Models, Retrieval-Augme
 
 ## 🚀 Featured Projects
 
+### [Dynamic Multi-Model GPU Serving Platform (GKE, FastAPI)](https://github.com/mematcha/dynamic-model-serving/)
+- **Delivered a production-grade GPU inference system with stable p95 latency**, by architecting a Kubernetes-based FastAPI service on NVIDIA L4 GPUs, resulting in cost-efficient multi-model serving.
+- **Reduced cold-start variance and stabilized latency**, by designing a decoupled model-loader with FP16 weights, GPU caching, and dynamic request routing, ensuring predictable inference performance.
+- **Quantified a 4.3× latency and throughput gap between SDXL and SD 1.5**, by building a benchmarking harness capturing per-request latency distributions and warmup behavior, enabling data-driven capacity planning.
+- **Enabled secure downstream consumption of ML inference**, by exposing authenticated REST APIs, resulting in safe integration with client applications.
+
+### Automated Batch Feature Store
+- Engineered feature pipeline achieving **170K+ records/sec** with fault-tolerant checkpointing, cutting feature engineering effort by **60–80%**.
+- Achieved **0.04 ms average latency** at **27K ops/sec** for real-time feature serving via Redis, enabling model inference for production systems at scale.
+
+### Meridian — Multi-Agent Financial Intelligence Platform
+*Dec 2025*
+
+- **Orchestrated an autonomous multi-agent analysis system processing 10,000+ articles/day**, by designing an eight-agent LLM workflow ingesting data from 4+ market and news sources, resulting in explainable BUY/HOLD/SELL recommendations.
+- **Achieved sub-4-minute end-to-end decision latency**, by optimizing long-horizon agent execution and tool invocation (<1 minute per agent), enabling near–real-time financial insights.
+- **Sustained 100+ queries/hour under a <$2 per-query token budget**, by deploying Dockerized services on GCP with CI/CD, resulting in a cost-efficient and scalable agentic system.
+
+
+
 ### 🔍 [Large-Scale Document Understanding with Multi-Modal Transformers](https://github.com/Big-Data-Team-3/pdf-parser)
 Built production-scale ML pipeline for SEC financial document processing using **LayoutLMv3** and **LayoutParser**
 - Multi-engine architecture combining deep learning models (Google Document AI, Docling) with traditional parsers
