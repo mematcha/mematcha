@@ -9,7 +9,7 @@ Machine Learning Engineer specializing in Large Language Models, Retrieval-Augme
 ## 🎓 Education
 
 - **Northeastern University** - M.S. in Information Systems (Dec 2025)
-- **Indian Institute of Technology Bombay** - Bachelor of Technology (Aug 2021)
+- **Indian Institute of Technology Bombay** - Bachelor of Technology (Apr 2021)
 
 ## 💼 Professional Experience
 
